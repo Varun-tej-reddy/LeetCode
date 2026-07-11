@@ -7,11 +7,12 @@ class Solution {
             if(nums[right] == 0) {
                 z++;
             }
-            while(z > k){
+            if(z > k){
                 if(nums[left] == 0)z--;
                 left++;
             }
-            max = Math.max(max, right - left +1);
+            if(z <= k)
+                max = Math.max(max, right - left +1);
         }
 
         return max;
