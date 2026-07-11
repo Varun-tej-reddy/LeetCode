@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0046-permutations](https://github.com/Varun-tej-reddy/LeetCode/tree/master/0046-permutations) |
 | [0169-majority-element](https://github.com/Varun-tej-reddy/LeetCode/tree/master/0169-majority-element) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Varun-tej-reddy/LeetCode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Hash Table
@@ -30,4 +31,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Varun-tej-reddy/LeetCode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+## Backtracking
+|  |
+| ------- |
+| [0046-permutations](https://github.com/Varun-tej-reddy/LeetCode/tree/master/0046-permutations) |
 <!---LeetCode Topics End-->
