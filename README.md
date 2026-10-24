@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Varun-tej-reddy/LeetCode/tree/master/0169-majority-element) |
+| [0383-ransom-note](https://github.com/Varun-tej-reddy/LeetCode/tree/master/0383-ransom-note) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Varun-tej-reddy/LeetCode/tree/master/0169-majority-element) |
+| [0383-ransom-note](https://github.com/Varun-tej-reddy/LeetCode/tree/master/0383-ransom-note) |
 ## Sliding Window
 |  |
 | ------- |
@@ -60,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0125-valid-palindrome](https://github.com/Varun-tej-reddy/LeetCode/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/Varun-tej-reddy/LeetCode/tree/master/0344-reverse-string) |
+| [0383-ransom-note](https://github.com/Varun-tej-reddy/LeetCode/tree/master/0383-ransom-note) |
 ## Enumeration
 |  |
 | ------- |
