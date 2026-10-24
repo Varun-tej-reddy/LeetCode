@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Varun-tej-reddy/LeetCode/tree/master/0169-majority-element) |
+| [0242-valid-anagram](https://github.com/Varun-tej-reddy/LeetCode/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/Varun-tej-reddy/LeetCode/tree/master/0383-ransom-note) |
 ## Divide and Conquer
 |  |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Varun-tej-reddy/LeetCode/tree/master/0169-majority-element) |
+| [0242-valid-anagram](https://github.com/Varun-tej-reddy/LeetCode/tree/master/0242-valid-anagram) |
 | [0414-third-maximum-number](https://github.com/Varun-tej-reddy/LeetCode/tree/master/0414-third-maximum-number) |
 ## Counting
 |  |
@@ -63,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/Varun-tej-reddy/LeetCode/tree/master/0125-valid-palindrome) |
+| [0242-valid-anagram](https://github.com/Varun-tej-reddy/LeetCode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Varun-tej-reddy/LeetCode/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/Varun-tej-reddy/LeetCode/tree/master/0383-ransom-note) |
 ## Enumeration
