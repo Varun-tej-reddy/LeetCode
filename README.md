@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0046-permutations](https://github.com/Varun-tej-reddy/LeetCode/tree/master/0046-permutations) |
 | [0169-majority-element](https://github.com/Varun-tej-reddy/LeetCode/tree/master/0169-majority-element) |
+| [0414-third-maximum-number](https://github.com/Varun-tej-reddy/LeetCode/tree/master/0414-third-maximum-number) |
 | [1004-max-consecutive-ones-iii](https://github.com/Varun-tej-reddy/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Varun-tej-reddy/LeetCode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Hash Table
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Varun-tej-reddy/LeetCode/tree/master/0169-majority-element) |
+| [0414-third-maximum-number](https://github.com/Varun-tej-reddy/LeetCode/tree/master/0414-third-maximum-number) |
 ## Counting
 |  |
 | ------- |
