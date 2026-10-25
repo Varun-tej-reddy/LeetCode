@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Varun-tej-reddy/LeetCode/tree/master/0001-two-sum) |
 | [0046-permutations](https://github.com/Varun-tej-reddy/LeetCode/tree/master/0046-permutations) |
 | [0169-majority-element](https://github.com/Varun-tej-reddy/LeetCode/tree/master/0169-majority-element) |
 | [0204-count-primes](https://github.com/Varun-tej-reddy/LeetCode/tree/master/0204-count-primes) |
@@ -14,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Varun-tej-reddy/LeetCode/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/Varun-tej-reddy/LeetCode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/Varun-tej-reddy/LeetCode/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/Varun-tej-reddy/LeetCode/tree/master/0383-ransom-note) |
