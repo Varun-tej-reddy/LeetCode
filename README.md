@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/Varun-tej-reddy/LeetCode/tree/master/0204-count-primes) |
 | [0283-move-zeroes](https://github.com/Varun-tej-reddy/LeetCode/tree/master/0283-move-zeroes) |
 | [0414-third-maximum-number](https://github.com/Varun-tej-reddy/LeetCode/tree/master/0414-third-maximum-number) |
+| [0704-binary-search](https://github.com/Varun-tej-reddy/LeetCode/tree/master/0704-binary-search) |
 | [1004-max-consecutive-ones-iii](https://github.com/Varun-tej-reddy/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Varun-tej-reddy/LeetCode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Hash Table
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0704-binary-search](https://github.com/Varun-tej-reddy/LeetCode/tree/master/0704-binary-search) |
 | [1004-max-consecutive-ones-iii](https://github.com/Varun-tej-reddy/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 ## Math
 |  |
