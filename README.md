@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0172-factorial-trailing-zeroes](https://github.com/Varun-tej-reddy/LeetCode/tree/master/0172-factorial-trailing-zeroes) |
 | [0202-happy-number](https://github.com/Varun-tej-reddy/LeetCode/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/Varun-tej-reddy/LeetCode/tree/master/0204-count-primes) |
+| [1071-greatest-common-divisor-of-strings](https://github.com/Varun-tej-reddy/LeetCode/tree/master/1071-greatest-common-divisor-of-strings) |
 ## Two Pointers
 |  |
 | ------- |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/Varun-tej-reddy/LeetCode/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/Varun-tej-reddy/LeetCode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Varun-tej-reddy/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
+| [1071-greatest-common-divisor-of-strings](https://github.com/Varun-tej-reddy/LeetCode/tree/master/1071-greatest-common-divisor-of-strings) |
 ## Enumeration
 |  |
 | ------- |
@@ -123,4 +125,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/Varun-tej-reddy/LeetCode/tree/master/0202-happy-number) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [1071-greatest-common-divisor-of-strings](https://github.com/Varun-tej-reddy/LeetCode/tree/master/1071-greatest-common-divisor-of-strings) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [1071-greatest-common-divisor-of-strings](https://github.com/Varun-tej-reddy/LeetCode/tree/master/1071-greatest-common-divisor-of-strings) |
 <!---LeetCode Topics End-->
