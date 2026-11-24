@@ -6,7 +6,12 @@ class Solution {
         }
     }
     public int findGCD(int[] nums) {
-        Arrays.sort(nums);
-        return gcd(nums[0],nums[nums.length-1]);
+        int min = Integer.MAX_VALUE;
+        int max = Integer.MIN_VALUE;
+        for(int num : nums){
+            min = Math.min(min, num);
+            max = Math.max(max, num);
+        }
+        return gcd(min,max);
     }
 }
