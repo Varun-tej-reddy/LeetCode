@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/Varun-tej-reddy/LeetCode/tree/master/0704-binary-search) |
 | [1004-max-consecutive-ones-iii](https://github.com/Varun-tej-reddy/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Varun-tej-reddy/LeetCode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Varun-tej-reddy/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/Varun-tej-reddy/LeetCode/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/Varun-tej-reddy/LeetCode/tree/master/0204-count-primes) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Varun-tej-reddy/LeetCode/tree/master/1071-greatest-common-divisor-of-strings) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Varun-tej-reddy/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -97,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Varun-tej-reddy/LeetCode/tree/master/0204-count-primes) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Varun-tej-reddy/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Primality Test
 |  |
 | ------- |
@@ -129,8 +132,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Varun-tej-reddy/LeetCode/tree/master/1071-greatest-common-divisor-of-strings) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Varun-tej-reddy/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Greatest Common Divisor
 |  |
 | ------- |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Varun-tej-reddy/LeetCode/tree/master/1071-greatest-common-divisor-of-strings) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Varun-tej-reddy/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 <!---LeetCode Topics End-->
